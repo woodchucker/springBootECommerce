@@ -1,0 +1,5 @@
+Maven Clean -> Maven Install (never do it)
+	Issue:	Could not find pom.xml
+	Solution: Maven update
+
+When add new library in some case maven install+update is mandatory

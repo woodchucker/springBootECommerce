@@ -1,0 +1,2 @@
+All controller should be in a subfolder of the main app.java file
+in this case is /Bookstore/src/main/java/com/bookstore/BookstoreApplication.java

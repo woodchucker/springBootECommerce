@@ -1,0 +1,7 @@
+File->New Project -> Others -> New Spring Starter Project
+Fill:
+groupID com.myFolderToMainClass
+packageName com.myFolderToMainClass
+projectName myFolderToMainClass
+
+In case of issue read 2.edit pomXML.txt

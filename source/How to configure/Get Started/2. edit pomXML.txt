@@ -1,0 +1,6 @@
+Maven -> add dependency -> search repository: spring-boot-starter-thymeleaf
+	-> edit pom.xml file and remove thymeleaf-nested line version ...
+
+Edit pom.xml
+After Snapshot line add line:
+<packaging>jar</packaging>

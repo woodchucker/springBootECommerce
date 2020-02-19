@@ -1,0 +1,6 @@
+Restart Project
+	bottone quadrato verde
+Stop Running 
+	bottone quadrato rosso
+Warning failed to fetch live data Ignore It & don't care
+
