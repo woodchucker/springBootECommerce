@@ -1,0 +1,11 @@
+On cmd prompt:
+C:\>netstat -ao |find /i "listening"
+OUTPUT:
+TCP XXX.XXX.XXX.XXX:8080 ..... LISTENING PidNumber
+
+for example if PidNumber for the busy port in example the 8080 is 10864
+
+On cmd prompt:
+C:\>Taskkill /F /IM 10864
+Output:
+OPERAZIONE RIUSCITA: il processo con il PID 10864 è stato terminato.

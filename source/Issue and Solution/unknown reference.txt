@@ -1,0 +1,5 @@
+Delete the following folder and update maven and restart project
+del .project
+del .classpath
+del .factorypath
+del -rf .settings
