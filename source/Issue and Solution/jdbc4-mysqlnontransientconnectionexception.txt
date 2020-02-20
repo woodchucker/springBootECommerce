@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/50177907/com-mysql-jdbc-exceptions-jdbc4-mysqlnontransientconnectionexception-could-not
+
+I just changed the version of dependency. This worked for me
+add line <version>5.1.46</version> to the follow dependency:
+
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>5.1.46</version>
+    </dependency>
